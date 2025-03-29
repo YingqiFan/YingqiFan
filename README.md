@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YingqiFan
-- 👀 I’m interested in Python , C ,FreeDOS and Linux
+- 👀 I’m interested in Python , C ,FreeDOS , Linux and QASM.
 - 🌱 I’m currently learning Linux and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me CSDN:accountcancelled
-- 😄 Pronouns: I will not be angry that you call me any pronouns
+- 😄 Pronouns: I will not be angry at you for calling me any pronouns for people, except for eunuchs.
 - ⚡ Fun fact: My GitHub can not login on Pycharm
 
 <!---

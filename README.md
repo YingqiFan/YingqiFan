@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YingqiFan
-- 👀 I’m interested in Python , C ,FreeDOS , Linux and QASM.
+- 👀 I’m interested in Python , C , Linux and QASM.
 - 🌱 I’m currently learning Linux and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me CSDN:accountcancelled
